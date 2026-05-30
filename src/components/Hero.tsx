@@ -45,7 +45,9 @@ export function Hero() {
           className="col-span-12 md:col-span-9"
         >
           <h1 className="font-display text-2xl leading-[1.15] text-foreground md:text-4xl">
-            <span className="italic text-muted-foreground">Santosh Subedi</span> — recognized as the best graphics designer in Nepal, crafting intuitive interfaces, considered brand systems, and quietly memorable visual work.
+            <span className="italic text-muted-foreground">Santosh Subedi</span> — a UI/UX
+            &amp; graphic designer building intuitive interfaces, considered brand systems
+            and quietly memorable visual work.
           </h1>
           <p className="mt-5 max-w-md text-sm leading-relaxed text-muted-foreground">{bio}</p>
         </motion.div>
