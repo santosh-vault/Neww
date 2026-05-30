@@ -55,8 +55,9 @@ export function Footer() {
           >
             <motion.img
               src={footerBanner}
-              alt="Santosh Subedi — UI/UX, brand & graphic designer"
+              alt="Santosh Subedi — Best Graphics Designer in Nepal"
               loading="lazy"
+              decoding="async"
               width={1920}
               height={1080}
               style={{ y: bannerY, scale: bannerScale }}
@@ -167,11 +168,6 @@ export function Footer() {
                 <li>
                   <a href="#clients" className="story-link w-fit">
                     Clients
-                  </a>
-                </li>
-                <li>
-                  <a href="#contact" className="story-link w-fit">
-                    Contact
                   </a>
                 </li>
               </ul>

@@ -30,8 +30,9 @@ export function ProjectCard({ project, index }: { project: Project; index: numbe
 
         <img
           src={project.image}
-          alt={project.title}
+          alt={`Santosh Subedi - ${project.title} - Graphic Design Nepal`}
           loading="lazy"
+          decoding="async"
           className="h-full w-full object-contain transition-transform duration-[1400ms] ease-[cubic-bezier(0.65,0,0.35,1)] group-hover:scale-[1.04]"
         />
 

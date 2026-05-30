@@ -27,8 +27,9 @@ function Row() {
           <span className="flex items-center px-10">
             <img
               src={b.src}
-              alt={`${b.name} logo`}
+              alt={`${b.name} logo - Designed by Santosh Subedi`}
               loading="lazy"
+              decoding="async"
               className="h-16 w-auto object-contain opacity-80 transition-opacity duration-300 hover:opacity-100 md:h-20"
             />
           </span>
