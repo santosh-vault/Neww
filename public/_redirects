@@ -1,0 +1,2 @@
+"Client-side routing" — navigation that happens entirely in the browser using JavaScript, rather than the server fetching a new page. This is powerful but requires the server to always serve index.html first.
+
