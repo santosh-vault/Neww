@@ -37,11 +37,11 @@ const projects: Project[] = [
     href: "https://www.behance.net/gallery/249994129/Instagram-carousel-template-set",
   },
   {
-    title: "UI Design",
+    title: "UI/UX Design",
     category: "Product · Interface",
     image: imgUI,
     year: "2024",
-    href: "https://www.behance.net/gallery/223873273/Finance-App-UX-Improvement-Meroshare",
+    href: "https://www.figma.com/design/h9wtxvUcm8RRJMNqg6KXzX/ccrm?node-id=0-1&t=JsVqLKw62M1xOa3q-1",
   },
   {
     title: "Illustrations",
