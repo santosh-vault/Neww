@@ -5,7 +5,7 @@ import imgGraphic from "@/assets/card-graphic.png";
 import imgLogos from "@/assets/card-logos.png";
 import imgCarousel from "@/assets/card-carousel.png";
 import imgUI from "@/assets/card-ui.png";
-import imgIllustration from "@/assets/card-illustration.png";
+import imgEmail from "@/assets/email.png";
 
 const projects: Project[] = [
   {
@@ -44,11 +44,11 @@ const projects: Project[] = [
     href: "https://www.figma.com/design/h9wtxvUcm8RRJMNqg6KXzX/ccrm?node-id=0-1&t=JsVqLKw62M1xOa3q-1",
   },
   {
-    title: "Illustrations",
+    title: "Email Designs",
     category: "Visual · Concept",
-    image: imgIllustration,
+    image: imgEmail,
     year: "2023",
-    href: "https://www.behance.net/gallery/224010409/Illustrations-Created-Using-Illustrator",
+    href: "https://www.behance.net/gallery/251491237/Email-Designs",
   },
 ];
 
